@@ -1,5 +1,5 @@
 # Tigers-Goats
- Tiger and goats game in Java with Basic GUI.
+ Tigers and goats game in Java with Basic GUI.
  
  Users play with goats and AI plays with tigers
  
